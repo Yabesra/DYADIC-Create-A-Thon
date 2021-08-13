@@ -13,6 +13,8 @@ Team 5 or DYADIC's wildfire prediction model code, data, research, and any furth
 
 # Summry of who we are
 
+We have created a wildfire risk assessment model using weather data to predict the risk of a wildfire. This gives all home owners, property owners, businesses, and firefighters time to both prepare and respond in the case of a real fire. Nothin like this technology is on the market. Through our market research we have found that many apps work on alerting people after it's happened we work to alert people before it happens. Hopefully using this model we can help save many lives. 
+
 ### SlideShow
 Get a better understanding of our project and what we did by going through this slidshow: https://tinyurl.com/2zbn4hcd
 
