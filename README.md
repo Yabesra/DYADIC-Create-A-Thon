@@ -24,8 +24,8 @@ Team 5 or DYADIC's wildfire prediction model code, data, research, and any furth
 <br>
 
 #### Readme Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yabesra&repo=team5)](https://github.com/devpatelio/team5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yabesra&repo=DYADIC-Create-A-Thon)](https://github.com/Yabesra/DYADIC-Create-A-Thon)
 <br>
 
 #### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpatelio&layout=team5)](https://github.com/devpatelio/team5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabesra&layout=DYADIC-Create-A-Thon)](https://github.com/Yabesra/DYADIC-Create-A-Thon)
