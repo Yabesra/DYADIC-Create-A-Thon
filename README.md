@@ -6,7 +6,7 @@ The [SureStart MIT FutureMakers Summer Program](https://pages.github.com/) is a 
 ##  Team DYADIC: An Overview
 Team 5 or DYADIC's wildfire prediction model code, data, research, and any further information is in this repository.
 ### Team Mentor: Dorothee Grant
-### Team Mentees: Avirral Agarwal, Camden Baucom, Dev Patel, Iris Xue, & Yabesra Ewnetu
+### Team Mentees: Avirral, Camden, Dev, Iris, & Yabesra 
 
 [![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badge.svg)](https://github.com/Yabesra/DYADIC-Create-A-Thon)
 
