@@ -1,6 +1,6 @@
 
 # SureStart MIT FutureMakers Summer Program 2021 Create-a-thon - Team DYADIC
-The [SureStart MIT FutureMakers Summer Program](https://pages.github.com/) is a virtual, 6 week program that was developed by SureStart and the MIT Raise Intiative that allows participants to learn about & explore AI concepts, hear from career experts in the industry, and develop entrepreneurship and leadership skills. 
+The [SureStart MIT FutureMakers Summer Program](https://mysurestart.com/) is a virtual, 6 week program that was developed by SureStart and the MIT Raise Intiative that allows participants to learn about & explore AI concepts, hear from career experts in the industry, and develop entrepreneurship and leadership skills. 
 
 The program culminated in the Create-a-thon, where participants got the opportunity to build an AI-based product and pitch it to an industry panel of judges. Read on for more information on what we developed! 
 
